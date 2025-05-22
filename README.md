@@ -14,7 +14,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch]()
+![Amazon ERD](https://github.com/user-attachments/assets/88f24cce-0c3c-4ec0-8fdf-4c4344d101ae)
 
 ## **Database Setup & Design**
 
@@ -743,6 +743,7 @@ By completing this project, I have gained a deeper understanding of how SQL can 
 ---
 
 ### **Entity Relationship Diagram (ERD)**
-![ERD]()
+![Updated ERD - Amazon](https://github.com/user-attachments/assets/be112cc6-89ee-4dac-afa9-93ac49a9cde3)
+
 
 ---
